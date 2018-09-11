@@ -1,0 +1,13 @@
+{
+action:"update_hot_words",
+hotwordList:[{title:"狄仁杰"},{title:"摩天营救"},{title:"神秘巨星"},{title:"狂暴巨兽"},{title:"后来的我们"},{title:"无问西东"}],
+updateBean:{
+    "versionCode":401,
+    "versionName":"7.12",
+    "url":"https://cdn2.jianshu.io/assets/web/nav-logo-4c7bbafe27adc892f3046e6978459bac.png",
+    "note":"增加对电视剧的支持",
+    "md5":"4c7bbafe27adc892f3046e6978459bac",
+    "size":17962350,
+    "forceUpdate":true
+    }
+}
